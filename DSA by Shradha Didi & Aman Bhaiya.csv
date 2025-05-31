@@ -1,9 +1,9 @@
 Topics,Question (375),Status,Companies,Remarks
-Arrays,Maximum and Minimum Element in an Array,Done, ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe,
-Arrays,Reverse the Array,Done, Infosys Moonfrog Labs,
+Arrays,Maximum and Minimum Element in an Array,BSDK, ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe,
+Arrays,Reverse the Array,BSDK, Infosys Moonfrog Labs,
 Arrays,Maximum-Subarray,,Microsoft + Facebook Interview Qs,use Kadane's Algorithm
-Arrays,Contains Duplicate,Done,Amazon Interview Qs,
-Arrays,Chocolate Distribution Problem,Done,Amazon Interview Qs,
+Arrays,Contains Duplicate,BSDK,Amazon Interview Qs,
+Arrays,Chocolate Distribution Problem,BSDK,Amazon Interview Qs,
 Arrays,Search in Rotated Sorted Array,, Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm ,
 Arrays,Next Permutation,,Uber + Goldman Sachs + Adobe Interview Qs,
 Arrays,Best time to Buy and Sell Stock,,Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google,
